@@ -1,6 +1,5 @@
 # MB2 Final Project
-## Land Cover Change Detection in Inambaru, Peru
-## due to illegal gold mining  
+## Land Cover Change Detection in Inambaru, Peru due to illegal gold mining  
 
 ### Introduction
 Illegal mining for several years has caused devastating effects in the Amazon. The presence of heavy machinery used for mining has destroyed the natural vegetation of the area  leading to the displacement of wildlife living in the forest.  In addition, the indiscriminate use of chemicals such as mercury has caused health damage to local populations and affected rivers and aquatic life ().

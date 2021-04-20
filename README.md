@@ -3,6 +3,7 @@
 
 ### Introduction
 Illegal mining for several years has caused devastating effects in the Amazon. The presence of heavy machinery used for mining has destroyed the natural vegetation of the area  leading to the displacement of wildlife living in the forest [2]. In addition, the indiscriminate use of chemicals such as mercury has caused health damage to local populations and affected rivers and aquatic life [1].
+
 In this context, Peru is among the countries facing major deforestation in the Amazon area due to illegal gold mining [1]. This project seeks through satellite images to examine the changes in forest cover in the northern part of the Malinowski River from 2014 to 2018 to determine the changes that mining has brought to the land cover in the study area. 
 
 ### Data and Methods

@@ -19,4 +19,5 @@ The main result of the study shows that there was a considerable forest loss amo
 
 ### References
 [1] Brack A, Ipenza C, Alvarez J, Sotero V; Minería Aurífera en Madre de Dios y Contaminación con Mercurio - Una Bomba de Tiempo, Ministerio del Ambiente, Lima abril del 2011.
+
 [2] Mongabay (2019). Minería ilegal: la peor devastación en la historia de la Amazonía from https://es.mongabay.com/2019/01/mapa-mineria-ilegal-amazonia/

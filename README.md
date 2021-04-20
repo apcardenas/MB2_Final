@@ -10,7 +10,7 @@ In this context, Peru is among the countries facing major deforestation in the A
 
 The following is an image of the same area in 2018. Notice that the river flow has changed and also the mining pools have increase.
 
-
+![dc7bd81c-a9ca-439d-9fda-2fd75d81f1ac](https://user-images.githubusercontent.com/73172997/115454047-a375ed80-a220-11eb-8d65-b426f175160e.png)
 
 ### Data and Methods
 In this study, a time series of Sentinel 2 images were used to classify and analyze the land cover changes, occurring in the upper zone of the Malinwsky River. The scenes were preprocesed in QGIS. 
